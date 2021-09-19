@@ -16,10 +16,10 @@
                 </div>
                 <div class="menu">
                     <ul>
-                        <a href="#"><li>Home</li></a>
-                        <a href="#"><li>Categories</li></a>
-                        <a href="#"><li>Foods</li></a>
-                        <a href="#"><li>Contact</li></a>
+                        <a href="../Home_Ex"><li>Home</li></a>
+                        <a href="../Categories_Ex"><li>Categories</li></a>
+                        <a href="../Food_Ex"><li>Foods</li></a>
+                        <a href="../Order_Ex_1"><li>Contact</li></a>
                     </ul>
                 </div>
             </div>
