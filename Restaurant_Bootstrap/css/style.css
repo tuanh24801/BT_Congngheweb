@@ -1,0 +1,235 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+/* CSS for header */
+.menulist ul li{
+    display: inline-block;
+    padding: 1%;
+    font-weight: bold;
+}
+.navbar-nav .nav-link {
+    color: #ff7979;
+}
+.navbar-nav .nav-link:hover {
+    color: #eb4d4b;
+}
+.navbar-toggler-icon{
+    color: white;
+    background-color: #ff7979;
+}
+/* CSS for Search food home */
+.Searchfood_Home{
+    background-image: url("/Restaurant_Bootstrap_Ex/Image/bg.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding: 7%;
+}
+.Searchfood_input_Home form{
+    width: 60%;
+    height: 40px;
+}
+.Searchfood_input_Home input[type = "Search"] {
+    width: 100%;
+    padding: 2%;
+    font-weight: bold;
+}
+.Searchfood_input_Home form button{
+    color: white;
+    background-color:#ff7979 ;
+}
+.Searchfood_input_Home form button:hover{
+    color: white;
+    background-color:#eb4d4b ;
+}
+.input_Searchfoods_Home{
+    margin: auto;
+}
+/* CSS for Explore foods Body home */
+.Body_Home{
+    margin-top: 70px;
+    margin-bottom: 40px;
+}
+.menu_body_home_container{
+    margin-top: 10px;
+}
+.title_body_Home{
+   text-align: center;
+}
+.card-img-top{
+    width: 100%;
+    border-radius: 5%;
+    /* margin-bottom: 10px; */
+}
+.card-body{
+    color: white;
+    /* margin-top: -120px; */
+    text-align: center;
+    
+}
+.title_menu_body_home{
+    font-weight: 700;
+    font-size: 1.5rem;
+    margin-top: -100px;
+}
+/* CSS for Food menu  */
+.Food_menu_home{
+    background-color: rgb(236, 234, 234);
+}
+.title_Food_menu_home h2{
+    padding-top: 70px;
+    padding-bottom: 40px;
+    text-align: center;
+}
+.img_Food_menu_home{
+    width: 40%;
+    border-radius: 12%;
+}
+.d_flex_Food_menu_home{
+    padding: 2%;
+    display: flex;
+}
+.title_menu{
+    width: 100%;
+    margin-left: -150px;
+}
+.title_menu h2{
+    font-weight: 700;
+}
+.ordernow a{
+    text-decoration: none;
+    color: white;
+}
+.title_menu .ordernow{
+    margin-top: 15px;
+    background-color: #ff7979;
+    display: inline-block;
+    padding: 1%;
+    border-radius: 6px;
+    color: rgb(255, 255, 255);
+}
+.title_menu .ordernow:hover{
+    background-color: #eb4d4b;
+}
+/* CSS for bottom */
+.bottom{
+    width: 100%;
+    background-color: rgb(255, 255, 255);
+    margin: auto;
+    text-align: center;
+    margin-top: 50px;
+}
+.logo_information{
+    text-align: center;
+    padding-top: 2%;
+}
+.logo_information ul{
+    list-style-type: none;
+    padding: 1%;
+    padding-bottom: 2%;
+}
+.logo_information ul li{
+    display: inline;
+}
+.Text_information {
+    text-align: center;
+    margin-bottom: 50px;
+}
+.Text_information a{
+    
+    color: #ff7979;
+}
+
+/* CSS for Contact */
+fieldset{
+    border: 1px solid white;
+    margin: 5%;
+    padding: 3%;
+    border-radius: 5px;
+}
+.container_confirmorder{
+    width: 80%;
+    margin: 0 auto;
+    padding: 1%;
+}
+.img-responsive{
+    width: 100%;
+}
+.img-curve{
+    border-radius: 15px;
+}
+.food-search{
+    background-image: url(../Image/bg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 7% 0;
+}
+
+.food-search input[type="search"]{
+    width: 50%;
+    padding: 1%;
+    font-size: 1rem;
+    border: none;
+    border-radius: 5px;
+}
+.food-menu-img{
+    width: 20%;
+    float: left;
+}
+
+.food-menu-desc{
+    width: 70%;
+    float: left;
+    margin-left: 8%;
+    font-weight: 700;
+}
+.food-menu-desc h3{
+    font-weight: 700;
+}
+.order-label{
+    margin-bottom: 1%; 
+    font-weight: bold;
+}
+
+.food-search input[type="search"]{
+    width: 50%;
+    padding: 1%;
+    font-size: 1rem;
+    border: none;
+    border-radius: 5px;
+}
+.text-center{
+    text-align: center;
+}
+.text-left{
+    text-align: left;
+}
+.text-white{
+    color: white;
+}
+.img-responsive{
+    width: 100%;
+}
+.food-price{
+    font-size: 1.2rem;
+    margin: 2% 0;
+}
+.input-responsive{
+    width: 96%;
+    padding: 1%;
+    margin-bottom: 3%;
+    border: none;
+    border-radius: 5px;
+    font-size: 1rem;
+}
+.order-label{
+    margin-bottom: 1%; 
+    font-weight: bold;
+}
+.btn-primary{
+    background-color: #ff7979;
+}
+.btn-primary:hover{
+    background-color: #eb4d4b;
+}
