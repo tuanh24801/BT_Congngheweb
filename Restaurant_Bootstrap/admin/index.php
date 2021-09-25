@@ -7,24 +7,24 @@
             <div class="content">
                 <div class="row  d-flex">
                     <div class="col-lg-3 col-md-6 Box_content text-center">
-                        <h1>5</h1>
+                        <h1 class="Category">4</h1>
                         <br>
                         Category
                     </div>
                     <div class="col-lg-3 col-md-6 Box_content text-center">
-                        <h1>5</h1>
+                        <h1 class="Foods">6</h1>
                         <br>
-                        Category
+                        Foods
                     </div>
                     <div class="col-lg-3 col-md-6 Box_content text-center">
-                        <h1>5</h1>
+                        <h1 class="Total_Orders">3</h1>
                         <br>
-                        Category
+                        Total Orders
                     </div>
                     <div class="col-lg-3 col-md-6 Box_content text-center">
-                        <h1>5</h1>
+                        <h1 class="Revernue_Generated">$36.00</h1>
                         <br>
-                        Category
+                        Revernue Generated
                     </div>
                 </div>
             </div>

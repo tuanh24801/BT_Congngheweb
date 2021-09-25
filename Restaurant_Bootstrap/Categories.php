@@ -49,7 +49,7 @@
                     <h2><b>Explore Foods</b></h2>
                 </div>
                 <div class="row row-cols-1 row-cols-md-3 g-4 menu_body_home_container">
-                    <!-- col 1 -->
+                    <!-- row 1 -->
                     <div class="col menu_body_home">
                         <div class="card h-100">
                             <img src="./Image/pizza.jpg" class="card-img-top" alt="...">
@@ -60,95 +60,30 @@
                     </div>
                     <div class="col">
                         <div class="card h-100">
-                        <img src="./Image/pizza.jpg" class="card-img-top" alt="...">
+                        <img src="./Image/burger.jpg" class="card-img-top" alt="...">
                         <div class="card-body">
-                            <h5 class="card-title title_menu_body_home">Pizza</h5>
+                            <h5 class="card-title title_menu_body_home">Burger</h5>
                         </div>
                         </div>
                     </div>
                     <div class="col">
                         <div class="card h-100">
-                        <img src="./Image/pizza.jpg" class="card-img-top" alt="...">
+                        <img src="./Image/momo.jpg" class="card-img-top" alt="...">
                         <div class="card-body">
-                            <h5 class="card-title title_menu_body_home">Pizza</h5>
+                            <h5 class="card-title title_menu_body_home">Momo</h5>
                         </div>
                         </div>
                     </div>
-                    <!-- col 2 -->
-                    <div class="col menu_body_home">
+                   <!-- row 2 -->
+                   <div class="col menu_body_home">
                         <div class="card h-100">
-                            <img src="./Image/pizza.jpg" class="card-img-top" alt="...">
+                            <img src="./Image/bg.jpg" class="card-img-top" alt="...">
                         <div class="card-body">
-                            <h5 class="card-title title_menu_body_home">Pizza</h5>
+                            <h5 class="card-title title_menu_body_home">Quia est ipsum id id</h5>
                         </div>
                         </div>
                     </div>
-                    <div class="col">
-                        <div class="card h-100">
-                        <img src="./Image/pizza.jpg" class="card-img-top" alt="...">
-                        <div class="card-body">
-                            <h5 class="card-title title_menu_body_home">Pizza</h5>
-                        </div>
-                        </div>
-                    </div>
-                    <div class="col">
-                        <div class="card h-100">
-                        <img src="./Image/pizza.jpg" class="card-img-top" alt="...">
-                        <div class="card-body">
-                            <h5 class="card-title title_menu_body_home">Pizza</h5>
-                        </div>
-                        </div>
-                    </div>
-                    <!-- col 3 -->
-                    <div class="col menu_body_home">
-                        <div class="card h-100">
-                            <img src="./Image/pizza.jpg" class="card-img-top" alt="...">
-                        <div class="card-body">
-                            <h5 class="card-title title_menu_body_home">Pizza</h5>
-                        </div>
-                        </div>
-                    </div>
-                    <div class="col">
-                        <div class="card h-100">
-                        <img src="./Image/pizza.jpg" class="card-img-top" alt="...">
-                        <div class="card-body">
-                            <h5 class="card-title title_menu_body_home">Pizza</h5>
-                        </div>
-                        </div>
-                    </div>
-                    <div class="col">
-                        <div class="card h-100">
-                        <img src="./Image/pizza.jpg" class="card-img-top" alt="...">
-                        <div class="card-body">
-                            <h5 class="card-title title_menu_body_home">Pizza</h5>
-                        </div>
-                        </div>
-                    </div>
-                    <!-- col 4 -->
-                    <div class="col menu_body_home">
-                        <div class="card h-100">
-                            <img src="./Image/pizza.jpg" class="card-img-top" alt="...">
-                        <div class="card-body">
-                            <h5 class="card-title title_menu_body_home">Pizza</h5>
-                        </div>
-                        </div>
-                    </div>
-                    <div class="col">
-                        <div class="card h-100">
-                        <img src="./Image/pizza.jpg" class="card-img-top" alt="...">
-                        <div class="card-body">
-                            <h5 class="card-title title_menu_body_home">Pizza</h5>
-                        </div>
-                        </div>
-                    </div>
-                    <div class="col">
-                        <div class="card h-100">
-                        <img src="./Image/pizza.jpg" class="card-img-top" alt="...">
-                        <div class="card-body">
-                            <h5 class="card-title title_menu_body_home">Pizza</h5>
-                        </div>
-                        </div>
-                    </div>
+                    <!-- row 2 end -->
                 </div>
             </div>
         </div>

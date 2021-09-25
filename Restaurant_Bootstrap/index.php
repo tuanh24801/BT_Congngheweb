@@ -72,17 +72,17 @@
                     </div>
                     <div class="col">
                         <div class="card h-100">
-                        <img src="./Image/pizza.jpg" class="card-img-top" alt="...">
+                        <img src="./Image/burger.jpg" class="card-img-top" alt="...">
                         <div class="card-body">
-                            <h5 class="card-title title_menu_body_home">Pizza</h5>
+                            <h5 class="card-title title_menu_body_home">Burger</h5>
                         </div>
                         </div>
                     </div>
                     <div class="col">
                         <div class="card h-100">
-                        <img src="./Image/pizza.jpg" class="card-img-top" alt="...">
+                        <img src="./Image//momo.jpg" class="card-img-top" alt="...">
                         <div class="card-body">
-                            <h5 class="card-title title_menu_body_home">Pizza</h5>
+                            <h5 class="card-title title_menu_body_home">Momo</h5>
                         </div>
                         </div>
                     </div>
@@ -100,11 +100,41 @@
                         <div class="card rect_food_menu_home ">
                             <div class="d_flex_Food_menu_home">
                                 <div class="div_img_food_menu_home">
-                                    <img src="./Image/menu-pizza.jpg" class="card-img-top img_Food_menu_home" alt="...">
+                                    <img src="./Image/menu-momo.jpg" class="card-img-top img_Food_menu_home" alt="...">
                                 </div>
                                 <div class="title_menu">
-                                    <h2>Food Title</h2>
-                                    <h2>$2.3</h2>
+                                    <h2>Dumplings Specials</h2>
+                                    <h2>$5.00</h2>
+                                    <p>Made with italian Sauce. Chicken, and organice vegetables</p>
+                                    <p class="ordernow"><a href="./Order.php">Order now</a></p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col">
+                        <div class="card rect_food_menu_home ">
+                            <div class="d_flex_Food_menu_home">
+                                <div class="div_img_food_menu_home">
+                                    <img src="./Image/menu-burger.jpg" class="card-img-top img_Food_menu_home" alt="...">
+                                </div>
+                                <div class="title_menu">
+                                    <h2>Best Burger</h2>
+                                    <h2>$4.00</h2>
+                                    <p>Made with italian Sauce. Chicken, and organice vegetables</p>
+                                    <p class="ordernow"><a href="./Order.php">Order now</a></p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col">
+                        <div class="card rect_food_menu_home ">
+                            <div class="d_flex_Food_menu_home">
+                                <div class="div_img_food_menu_home">
+                                    <img src="./Image/menu-momo.jpg" class="card-img-top img_Food_menu_home" alt="...">
+                                </div>
+                                <div class="title_menu">
+                                    <h2>Sadeko Momo</h2>
+                                    <h2>$6.00</h2>
                                     <p>Made with italian Sauce. Chicken, and organice vegetables</p>
                                     <p class="ordernow"><a href="./Order.php">Order now</a></p>
                                 </div>
@@ -118,75 +148,14 @@
                                     <img src="./Image/menu-pizza.jpg" class="card-img-top img_Food_menu_home" alt="...">
                                 </div>
                                 <div class="title_menu">
-                                    <h2>Food Title</h2>
-                                    <h2>$2.3</h2>
+                                    <h2>Mixed Pizza</h2>
+                                    <h2>$10.00</h2>
                                     <p>Made with italian Sauce. Chicken, and organice vegetables</p>
                                     <p class="ordernow"><a href="./Order.php">Order now</a></p>
                                 </div>
                             </div>
                         </div>
                     </div>
-                    <div class="col">
-                        <div class="card rect_food_menu_home ">
-                            <div class="d_flex_Food_menu_home">
-                                <div class="div_img_food_menu_home">
-                                    <img src="./Image/menu-pizza.jpg" class="card-img-top img_Food_menu_home" alt="...">
-                                </div>
-                                <div class="title_menu">
-                                    <h2>Food Title</h2>
-                                    <h2>$2.3</h2>
-                                    <p>Made with italian Sauce. Chicken, and organice vegetables</p>
-                                    <p class="ordernow"><a href="./Order.php">Order now</a></p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col">
-                        <div class="card rect_food_menu_home ">
-                            <div class="d_flex_Food_menu_home">
-                                <div class="div_img_food_menu_home">
-                                    <img src="./Image/menu-pizza.jpg" class="card-img-top img_Food_menu_home" alt="...">
-                                </div>
-                                <div class="title_menu">
-                                    <h2>Food Title</h2>
-                                    <h2>$2.3</h2>
-                                    <p>Made with italian Sauce. Chicken, and organice vegetables</p>
-                                    <p class="ordernow"><a href="./Order.php">Order now</a></p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col">
-                        <div class="card rect_food_menu_home ">
-                            <div class="d_flex_Food_menu_home">
-                                <div class="div_img_food_menu_home">
-                                    <img src="./Image/menu-pizza.jpg" class="card-img-top img_Food_menu_home" alt="...">
-                                </div>
-                                <div class="title_menu">
-                                    <h2>Food Title</h2>
-                                    <h2>$2.3</h2>
-                                    <p>Made with italian Sauce. Chicken, and organice vegetables</p>
-                                    <p class="ordernow"><a href="./Order.php">Order now</a></p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col">
-                        <div class="card rect_food_menu_home ">
-                            <div class="d_flex_Food_menu_home">
-                                <div class="div_img_food_menu_home">
-                                    <img src="./Image/menu-pizza.jpg" class="card-img-top img_Food_menu_home" alt="...">
-                                </div>
-                                <div class="title_menu">
-                                    <h2>Food Title</h2>
-                                    <h2>$2.3</h2>
-                                    <p>Made with italian Sauce. Chicken, and organice vegetables</p>
-                                    <p class="ordernow"><a href="./Order.php">Order now</a></p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-    
                 </div>
             </div>
         </div>

@@ -41,7 +41,22 @@ h1,h2{
     background-color: white;
     padding: 2% 0;
 }
-
+.img_manage_category{
+    width: 100px
+}
+.btn-success{
+    font-weight: 700;
+    color: black;
+    background-color: rgb(153, 226, 153);
+}
+.btn-danger{
+    font-weight: 700;
+    color: rgb(255, 255, 255);
+    background-color: #f17472;
+}
+.Title{
+    font-weight: 700;
+}
 /* CSS for footer */
 .footer{
     background-color: #eb4d4b;

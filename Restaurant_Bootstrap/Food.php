@@ -66,11 +66,26 @@
                         <div class="card rect_food_menu_home ">
                             <div class="d_flex_Food_menu_home">
                                 <div class="div_img_food_menu_home">
-                                    <img src="./Image/menu-pizza.jpg" class="card-img-top img_Food_menu_home" alt="...">
+                                    <img src="./Image/menu-momo.jpg" class="card-img-top img_Food_menu_home" alt="...">
                                 </div>
                                 <div class="title_menu">
-                                    <h2>Food Title</h2>
-                                    <h2>$2.3</h2>
+                                    <h2>Dumplings Specials</h2>
+                                    <h2>$5.00</h2>
+                                    <p>Made with italian Sauce. Chicken, and organice vegetables</p>
+                                    <p class="ordernow">Order now</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col">
+                        <div class="card rect_food_menu_home ">
+                            <div class="d_flex_Food_menu_home">
+                                <div class="div_img_food_menu_home">
+                                    <img src="./Image/menu-burger.jpg" class="card-img-top img_Food_menu_home" alt="...">
+                                </div>
+                                <div class="title_menu">
+                                    <h2>Best burger</h2>
+                                    <h2>$4.00</h2>
                                     <p>Made with italian Sauce. Chicken, and organice vegetables</p>
                                     <p class="ordernow">Order now</p>
                                 </div>
@@ -84,8 +99,8 @@
                                     <img src="./Image/menu-pizza.jpg" class="card-img-top img_Food_menu_home" alt="...">
                                 </div>
                                 <div class="title_menu">
-                                    <h2>Food Title</h2>
-                                    <h2>$2.3</h2>
+                                    <h2>Smoky BBQ Pizza</h2>
+                                    <h2>$6.00</h2>
                                     <p>Made with italian Sauce. Chicken, and organice vegetables</p>
                                     <p class="ordernow">Order now</p>
                                 </div>
@@ -96,40 +111,10 @@
                         <div class="card rect_food_menu_home ">
                             <div class="d_flex_Food_menu_home">
                                 <div class="div_img_food_menu_home">
-                                    <img src="./Image/menu-pizza.jpg" class="card-img-top img_Food_menu_home" alt="...">
+                                    <img src="./Image/menu-momo.jpg" class="card-img-top img_Food_menu_home" alt="...">
                                 </div>
                                 <div class="title_menu">
-                                    <h2>Food Title</h2>
-                                    <h2>$2.3</h2>
-                                    <p>Made with italian Sauce. Chicken, and organice vegetables</p>
-                                    <p class="ordernow">Order now</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col">
-                        <div class="card rect_food_menu_home ">
-                            <div class="d_flex_Food_menu_home">
-                                <div class="div_img_food_menu_home">
-                                    <img src="./Image/menu-pizza.jpg" class="card-img-top img_Food_menu_home" alt="...">
-                                </div>
-                                <div class="title_menu">
-                                    <h2>Food Title</h2>
-                                    <h2>$2.3</h2>
-                                    <p>Made with italian Sauce. Chicken, and organice vegetables</p>
-                                    <p class="ordernow">Order now</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col">
-                        <div class="card rect_food_menu_home ">
-                            <div class="d_flex_Food_menu_home">
-                                <div class="div_img_food_menu_home">
-                                    <img src="./Image/menu-pizza.jpg" class="card-img-top img_Food_menu_home" alt="...">
-                                </div>
-                                <div class="title_menu">
-                                    <h2>Food Title</h2>
+                                    <h2>Sadeko Momo</h2>
                                     <h2>$2.3</h2>
                                     <p>Made with italian Sauce. Chicken, and organice vegetables</p>
                                     <p class="ordernow">Order now</p>
